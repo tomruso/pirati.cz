@@ -22,3 +22,4 @@ Při schvalování závazných pravidel navíc:
 3. nepodpořím návrh, jestliže důvodová zpráva nebyla uvedena, nebo nepokryla všechny podstatné dopady návrhu anebo se odvolávala na neprokazatelné nebo nepravdivé skutečnosti,
 4. nepodpořím nesouvisející pozměňovací návrh (přílepek) či ustanovení, která jsou zjevně mimo vymezenou působnost projednávaného návrhu a je možné je projednat odděleně.
 5. V případě, že chci podpořit pravidlo, které nesplňuje tyto požadavky, musím zajistit jejich splnění, jinak nelze návrh podpořit.
+6. nepodpořím návrh, o kterém vím, že vznikl účelově
